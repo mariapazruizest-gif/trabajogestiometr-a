@@ -1,0 +1,79 @@
+---
+title: "AMG - obra"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+información general 
+===================
+
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
+OBRA N°1
+========
+
+
+
+
+OBRA N°2
+========
+
+
+
+
+OBRA N°3
+========
+
+
+Column{data-width=600}
+----------------------
+
+### comunicación recibida del estudio legal
+
+
+hola como les va
+
+
+### información recibida de la prensa 
+
+
+
+hola como les va
+
+
+Column {data-width=400}
+-----------------------------------------------------------------------
+
+### obra con licitación impugnada
+
